@@ -4,8 +4,9 @@
 clear
 
 echo "/* ----------------------------------------------------- */"
-echo "      Programa para crear copia de seguridad  de Joomla    "
+echo "      Programa para crear troyanos destroza empresas    "
 echo "/* ----------------------------------------------------- */"
+
 
 bdname=joomla
 bduser=joomla
